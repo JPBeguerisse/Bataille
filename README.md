@@ -8,4 +8,4 @@ Il y'a aussi les méthodes ajouter une carte, les méthodes qui incrémentent le
 
 La classe paquet permet de créer un paquet de 52 cartes et de l'initiation avec la méthode initPaquet puis la mélanger avec la méthode mélanger qui tire les cartes aléatoirement. On y trouve aussi la méthode estVide qui vérifie si le paquet est vide et getNbcartes pour savoir le nombre de carte dans le paquet.
 
-La classe Bataille qui contient notre main et dans laquelle on créer des joueurs et on initialise un paquet de 52 cartes tiré aléatoirement. Dans cette classe on devait implémenter le fait que 2 joueurs puisse jouer et de savoir qui sera le vainqueur ce qui n'a pas pu être fait.
+La classe Bataille qui contient notre main et dans laquelle on créer des joueurs et on initialise un paquet de 52 cartes tiré aléatoirement. Dans cette classe on devait implémenter le fait que 2 joueurs puisse jouer et de savoir qui sera le vainqueur ce qui reste à faire.
